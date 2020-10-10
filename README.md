@@ -1,1 +1,3 @@
-# Text-Mining_NLP
+Prediction of the customers who recommended the product to others depending on the sentiment analysis of their reviews.  
+Preprocessed the data obtaibed from the women Ecommerce website for the analysis. Analysed the data using different visualization libraries of python such as seaborn, cufflinks, matplotlib. Checked for missing data and processed it appropriately.
+Used vadersentiment analysis for analyzing the sentiment of the reviews. Used Word2Vec, TFIDF vectorizer for feature extraction. Developed a model using various algorithms such as Decision trees, Ensemble methods and SUpport vector machine.Also trained the model using keras API and finally obtained an accuracy of 81 percent. The model predicted the customers who are recommending the product to others using the results of sentiment analysis,other features.
